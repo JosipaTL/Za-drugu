@@ -35,3 +35,16 @@ CTRL + S > Source Control > Stage promjena (klik na +) > Upisati poruku > Commit
 Source Control panel > View File History > odaberi stari commit > Restore/Revert
 <h1>16. Na koji način možeš provjeriti status projekta i koje datoteke su izmijenjene?<br></h1>
 U Control Panelu možemo vidjeti sve promjene u datotekama
+
+dodavanje za unity
+roigorgs
+dgsegsa
+sfaseagetg
+aegsrgter
+hbsgrteajzr
+> Restore/Revert
+<h1>16. Na koji način možeš provjeriti status projekta i koje datoteke su izmijenjene?<br></h1>
+U Control Panelu možemo vidjeti sve promjene u datotekama
+> Restore/Revert
+<h1>16. Na koji način možeš provjeriti status projekta i koje datoteke su izmijenjene?<br></h1>
+U Control Panelu možemo vidjeti sve promjene u datotekama
