@@ -46,5 +46,8 @@ hbsgrteajzr
 <h1>16. Na koji način možeš provjeriti status projekta i koje datoteke su izmijenjene?<br></h1>
 U Control Panelu možemo vidjeti sve promjene u datotekama
 > Restore/Revert
+DA
 <h1>16. Na koji način možeš provjeriti status projekta i koje datoteke su izmijenjene?<br></h1>
 U Control Panelu možemo vidjeti sve promjene u datotekama
+
+dODAVANJE DA MOGU LUKI DATI PULL REQUEST
