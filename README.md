@@ -51,3 +51,4 @@ DA
 U Control Panelu možemo vidjeti sve promjene u datotekama
 
 dODAVANJE DA MOGU LUKI DATI PULL REQUEST
+HKGVHJHVB K.
